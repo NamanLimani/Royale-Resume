@@ -1,5 +1,5 @@
 
-# 👑 Resume Royale & Auto-Hunter
+#  Resume Royale & Auto-Hunter
 
 **An intelligent, multi-agent AI pipeline that scrapes live job boards, analyzes your fit, and orchestrates a "Battle Royale" between top LLMs to generate the perfect, mathematically-optimized, single-page LaTeX resume.**
 
@@ -28,7 +28,7 @@ When you find a job you want, you paste the Job Description into the Generator. 
 
 ---
 
-## 🧠 Core Engineering Achievements
+##  Core Engineering Achievements
 
 * **Model-Specific Prompt Routing:** LLMs have different weaknesses. Groq (Llama 3) is obedient but literal; Gemini is creative but bad at LaTeX syntax. The system routes uniquely tailored prompts to each model's API, forcing Groq to adhere to strict word counts and forcing Gemini to strictly escape LaTeX characters.
 * **RAG for Resumes (Authorized Synthesis):** Overcame the "AI Lobotomy" problem. Instead of strict copy-pasting, the system uses Retrieval-Augmented Generation principles, authorizing the AI to synthesize new achievements from a deep-dive knowledge base without hallucinating fake metrics or cloud platforms.
@@ -36,7 +36,7 @@ When you find a job you want, you paste the Job Description into the Generator. 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. System Dependencies & Prerequisites
 To run this project locally, you need Python 3.9+, a LaTeX compiler (for compiling the resumes in Phase 2), and PDF processing tools (for reading your master resumes).
@@ -143,4 +143,4 @@ resume_royale_project/
 
 ---
 *Built by [Naman Limani](https://www.linkedin.com/in/naman-limani) — Merging AI Architecture with Career Engineering.*
-```
+
