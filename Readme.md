@@ -1,14 +1,4 @@
-These commands are incredibly important, and including them in the README is a massive help for anyone (including future you) trying to set this up on a Mac! 
-
-* `brew install poppler tesseract` installs the system-level engines required to read and perform OCR on complex PDFs.
-* `brew install --cask mactex-no-gui` installs the lightweight version of the LaTeX compiler so you don't download 5GB of useless GUI apps.
-* `eval "$(/usr/libexec/path_helper)"` is a brilliant addition. It instantly refreshes the Mac terminal's PATH variable so Python can find `pdflatex` without forcing the user to close and reopen their terminal.
-
-Here is the fully updated `README.md` file with those system dependencies integrated perfectly into the setup instructions.
-
-***
-
-```markdown
+```
 # 👑 Resume Royale & Auto-Hunter
 
 **An intelligent, multi-agent AI pipeline that scrapes live job boards, analyzes your fit, and orchestrates a "Battle Royale" between top LLMs to generate the perfect, mathematically-optimized, single-page LaTeX resume.**
