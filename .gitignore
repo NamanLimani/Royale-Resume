@@ -1,0 +1,15 @@
+# Private Environment Variables (CRITICAL)
+.env
+
+# Python Virtual Environment & Caches
+venv/
+__pycache__/
+*.pyc
+
+# Personal Development Notes
+journal.md
+
+# Application Logs & Uploaded Resumes
+data/daily_logs/
+*.pdf
+*.tex

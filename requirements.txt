@@ -1,0 +1,16 @@
+# PDF Processing & OCR
+PyMuPDF>=1.23.0       # Extremely fast native PDF text extraction
+pdfplumber>=0.10.0    # Alternative extraction for complex layouts
+pytesseract>=0.3.10   # For OCR fallback
+pdf2image>=1.17.0     # Required to convert PDF pages to images for OCR
+
+# Environment & UI
+python-dotenv>=1.0.0  # To load API keys from the .env file
+streamlit>=1.31.0     # For our frontend user interface
+
+# LLM API Clients
+google-generativeai   # Official Gemini client
+groq                  # Official Groq client
+openai                # DeepSeek uses an OpenAI-compatible API structure
+cohere
+google-genai
