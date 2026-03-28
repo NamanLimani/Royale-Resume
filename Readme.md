@@ -1,4 +1,4 @@
-```
+
 # 👑 Resume Royale & Auto-Hunter
 
 **An intelligent, multi-agent AI pipeline that scrapes live job boards, analyzes your fit, and orchestrates a "Battle Royale" between top LLMs to generate the perfect, mathematically-optimized, single-page LaTeX resume.**
